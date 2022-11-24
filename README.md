@@ -2,7 +2,7 @@
 
 👀 I am interested in programming, football, games, news about IT
 
-🌱 I am currently working at the Eskhata Bank. Backend Developer (C#, Golang)
+🌱 I am currently working at the **** . Backend Developer (C#, Golang)
 
 📫 How to contact me telegram [mukhammad-mz](https://t.me/Mukhammad_mz1)
 <!---
