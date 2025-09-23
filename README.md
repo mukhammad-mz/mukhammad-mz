@@ -66,8 +66,8 @@ My expertise lies in creating efficient, maintainable, and secure software for h
         </span>
       </span></animated-image>
       
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammad-mz&show_icons=true&locale=en&layout=compact" alt="bekhzod3224" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukhammad-mz&show_icons=true&locale=en" alt="bekhzod3224" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammad-mz&show_icons=true&locale=en&layout=compact" alt="mukhammad-mz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukhammad-mz&show_icons=true&locale=en" alt="mukhammad-mz" /></p>
 
 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
